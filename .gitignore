@@ -1,5 +1,6 @@
 asteroids/log_worker.yaml
 asteroids/config.ini
 asteroids/log_migrate_db.yaml
-log/*.log
+asteroids/log/*.log
+asteroids/log/*.log.*
 .vs
